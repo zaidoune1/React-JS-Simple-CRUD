@@ -1,0 +1,66 @@
+.btn-sm {
+
+    margin-right: 20px;
+}
+
+.title-card {
+    font-family: 'Dancing Script', cursive;
+
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+}
+
+.bloc__container {
+
+    margin: 50px 0 50px 250px;
+}
+
+.container-fluid {
+    margin-left: 190px;
+}
+
+.active, .navbar-brand {
+    margin: 0px 0px 0 50px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.active {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.form {
+    margin-left: 250px;
+}
+
+
+.card {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-left: 120px;
+}
+
+.card-body {
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card-img-top {
+    width: 200px;
+    height: 200px;
+}
+
